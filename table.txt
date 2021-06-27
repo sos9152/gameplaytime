@@ -1,0 +1,1 @@
+create table game(game char(10) not null, date date not null, name char(10) not null, time int(2) not null);
